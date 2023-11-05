@@ -6,7 +6,7 @@
 	<img src="name.svg" width="800" height="100" alt="Click to see the source">
 </div>
 
-<details>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sDaman830&label=Profile%20views&color=0e75b6&style=flat" alt="sDaman830" /> </p>
 

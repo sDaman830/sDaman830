@@ -1,6 +1,9 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sDaman830&label=Profile%20views&color=0e75b6&style=flat" alt="sDaman830" /> </p>
+</h1>
 
 ### Welcome to my github profile 
+
 
 <div align="center">
 	<img src="daman.svg" width="800" height="100" alt="Click to see the source">
@@ -8,7 +11,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sDaman830&label=Profile%20views&color=0e75b6&style=flat" alt="sDaman830" /> </p>
+
 
 <div align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" />

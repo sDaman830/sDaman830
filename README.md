@@ -10,6 +10,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sDaman830&label=Profile%20views&color=0e75b6&style=flat" alt="sDaman830" /> </p>
 
+<div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" />
+  </div>
+
 🔭 I’m currently working on a project in Node.js<br>👯 I’m looking to collaborate on projects based on Golang and flutter<br>🌱 I’m currently learning Golang<br>💬 Ask me about cricket, movies and anime<br>⚡ Fun fact I also do video editing as a hobby
 
 ## 🌐 Socials:
